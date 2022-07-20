@@ -1,3 +1,3 @@
 # Demo
 
-My adventures begins here.
+My adventure begins here.
